@@ -1,10 +1,8 @@
 # Lista de integrantes del grupo
 integrantes = [
-    "José Martínez",
-    "Ana Gómez",
-    "Carlos Pérez",
-    "María Fernández",
-    "Luis Rodríguez"
+    "Jose Cannobbio",
+    "Sebastian Morales",
+    "Julio Mancilla",
 ]
 
 # Función para imprimir la lista de integrantes
