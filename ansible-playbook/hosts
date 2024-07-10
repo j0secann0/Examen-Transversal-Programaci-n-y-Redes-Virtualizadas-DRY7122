@@ -1,0 +1,5 @@
+[Cannobbio-Morales-Mancilla]
+192.168.100.7 ansible_network_os=ios ansible_user=cisco ansible_password=cisco123 ansible_ssh_pass=cisco123
+
+[servers]
+localhost ansible_connection=local
